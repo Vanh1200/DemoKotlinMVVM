@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">DemoKotlinMVVM</string>
+    <string name="app_name">Demo Kotlin MVVM</string>
+    <string name="text_user_name">User name</string>
+    <string name="text_password">Password</string>
+    <string name="text_sign_in">Sign in</string>
+    <string name="text_question_account">Don\'t have an account?</string>
+    <string name="text_sign_up">Sign up</string>
 </resources>
